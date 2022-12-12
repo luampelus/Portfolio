@@ -62,7 +62,7 @@ export const Contact = () => {
                           errors={state.errors}
                         />
                         <button type="submit" disabled={state.submitting}>
-                          Enviar
+                          <span>Enviar</span>
                         </button>
                       </Col>
                     </Row>
