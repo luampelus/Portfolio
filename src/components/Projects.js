@@ -1,6 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import projImg1 from "../assets/img/tmdb.png";
+import projImg1 from "../assets/img/tmdb-blockbuster.png";
 import projImg2 from "../assets/img/la-vaca-chocha.png";
 import projImg3 from "../assets/img/patitas-con-techo.png";
 
@@ -12,9 +12,9 @@ export const Projects = () => {
 
   const projects = [
     {
-      description: "The Movie Database",
+      description: "TMDB - Blockbuster",
       imgUrl: projImg1,
-      link: "https://github.com/luampelus/checkpoint-TMDB-220102"
+      link: "https://tmdb-blockbuster.netlify.app"
     },
     {
       description: "La Vaca Chocha",
