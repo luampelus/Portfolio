@@ -20,7 +20,7 @@ export const Profile = () => {
                   <p>
                     Hola! Mi nombre es Lua, soy un Full Stack Developer de 21
                     años. Desde muy chico siempre me atrajo mucho el mundo de la
-                    tecnología, por eso, este año decidí dar un salto en mí
+                    tecnología, por eso, en 2022 decidí dar un salto en mí
                     carrera y realizar un Coding Bootcamp de +800hs, en donde
                     aprendí las tecnologías más demandadas de la industria IT, y
                     a trabajar con metodologías agiles tales como Scrum y Pair
